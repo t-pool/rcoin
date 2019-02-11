@@ -1,0 +1,120 @@
+<TS language="zh" version="2.1">
+<context>
+    <name>BitcoinGUI</name>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+</context>
+<context>
+    <name>CoinControlDialog</name>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+</context>
+<context>
+    <name>Intro</name>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+</context>
+<context>
+    <name>OptionsDialog</name>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+</context>
+<context>
+    <name>RecentRequestsTableModel</name>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+</context>
+<context>
+    <name>SendCoinsDialog</name>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation>余额不足</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation>选择...</translation>
+    </message>
+    <message>
+        <source>The recipient address is not valid. Please recheck.</source>
+        <translation>收款人地址无效，请再次确认。</translation>
+    </message>
+    <message>
+        <source>Pay only the required fee of %1</source>
+        <translation>仅支付全额的%1</translation>
+    </message>
+    <message>
+        <source>Warning: Invalid Bitcoin address</source>
+        <translation>警告：比特币地址无效</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionDesc</name>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionTableModel</name>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionView</name>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+</context>
+<context>
+    <name>bitcoin-core</name>
+    <message>
+        <source>Transaction too large for fee policy</source>
+        <translation>根据费率标准，本次转账超额</translation>
+    </message>
+    <message>
+        <source>Transaction too large</source>
+        <translation>超额转账</translation>
+    </message>
+    <message>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>Insufficient funds</source>
+        <translation>余额不足</translation>
+    </message>
+    <message>
+        <source>Loading wallet...</source>
+        <translation>正在载入钱包...</translation>
+    </message>
+    <message>
+        <source>Rescanning...</source>
+        <translation>再次扫描...</translation>
+    </message>
+    <message>
+        <source>Done loading</source>
+        <translation>载入完成</translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation>错误</translation>
+    </message>
+</context>
+</TS>
